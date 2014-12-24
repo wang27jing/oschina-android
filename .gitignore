@@ -1,0 +1,6 @@
+.idea
+build
+*.properties
+*.iml
+*.bat
+gen
